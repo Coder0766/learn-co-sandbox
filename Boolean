@@ -1,0 +1,6 @@
+Conclusion
+While it might seem strange that these simple little conditional expressions are so tiny, stacked together, they can have a big impact!
+
+Most social media sites have a bit of conditional logic just like this one.
+
+top_corner_image = (user_logged_in && profile_pic_uploaded) ? retrieve_profile_pic : default_avatar
